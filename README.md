@@ -1,0 +1,1 @@
+# python_tutorial_drf_blog_api_codingentrepreneus
